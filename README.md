@@ -1,1 +1,1 @@
-This is a practice in Java language.
+This is a practice in Java language using POO.
